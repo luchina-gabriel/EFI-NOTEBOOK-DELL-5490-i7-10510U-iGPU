@@ -1,0 +1,13 @@
+Notebook:	Dell Inspiron 5490
+
+CPU:		i7-10510U
+
+SSD:		NVMe BC511 NVMe SK hy (238 GB) - CD04N808212904N3X
+
+Wireless:	Intel(R) Wireless-AC 9462
+
+GPU: 		Intel Comet Lake-U GT2 - Integrated Graphics Controller [V0] 8086-9B41 / 1028-0955 (Rev 02)
+			Dedicated Memory  	0 MB
+			Dynamic Memory  	119 MB
+
+Trackpad:	I2C HID Device -- ACPI\VEN_DELL&DEV_0955
